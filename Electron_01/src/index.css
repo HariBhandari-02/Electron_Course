@@ -1,0 +1,14 @@
+body {
+  font-family:
+    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial,
+    sans-serif;
+  margin: auto;
+  max-width: 38rem;
+  padding: 2rem;
+}
+
+.intro {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-decoration: dashed;
+  background-color: aqua;
+}
